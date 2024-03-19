@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreOreAuth20220318", "OreOreAuth20220318\OreOreAuth20220318.csproj", "{343A771B-F6AF-4979-AB62-FD7CD2AA14D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreOreAuth20220318.Client", "OreOreAuth20220318.Client\OreOreAuth20220318.Client.csproj", "{B0CBC051-7DE6-4E75-9D75-859CCDB48EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343A771B-F6AF-4979-AB62-FD7CD2AA14D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343A771B-F6AF-4979-AB62-FD7CD2AA14D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343A771B-F6AF-4979-AB62-FD7CD2AA14D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343A771B-F6AF-4979-AB62-FD7CD2AA14D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CBC051-7DE6-4E75-9D75-859CCDB48EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CBC051-7DE6-4E75-9D75-859CCDB48EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CBC051-7DE6-4E75-9D75-859CCDB48EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CBC051-7DE6-4E75-9D75-859CCDB48EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB687EE-699B-4F36-BD73-F1AC5AD2515E}
+	EndGlobalSection
+EndGlobal
